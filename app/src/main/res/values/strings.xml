@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HISCS</string>
+    <string name="tab_text_1">Priority</string>
+    <string name="tab_text_2">Switch</string>
+    <string name="tab_text_3">Status</string>
+    <string name="tab_text_4">Schedules</string>
+
+    <string name="title_activity_pair_device">PairDevice</string>
+</resources>
